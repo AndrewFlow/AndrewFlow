@@ -2,6 +2,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=10000&color=05D9E8&background=01012B00&vCenter=true&multiline=true&width=350&height=30&lines=I+am+a+front-end+developer" alt="Typing SVG" /></a>
 
 
+
 - 👋 Привет! Меня зовут Андрей и я front-end разработчик!
 - 👀 Интересуюсь созднаием красивых и динамичных сайтов. 
 - 📪 Связаться со мной можно по почте andrewfateev@mail.ru
@@ -20,6 +21,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" **alt="Bootstrap" width="40" height="40"/>
 </div>
+
+
+<div style ="width=600px,height="5px",background-color="f3e600"></div>
 
 ### :fire: Статистика :
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndrewFlow&title_color=04DAF6&text_color=f3e600&icon_color=f3e600&border_color=04DAF6&bg_color=0d1117&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)

@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
 </div>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello!+My+name+is+Andrew+and+i+front-end+developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=008319&center=true&width=435&lines=Hello!+My+name+is+Andrew;I+am+a+front-end+developer" alt="Typing SVG" /></a>
 - 👋 Привет! Меня зовут Андрей и я front-end разработчик!
 - 👀 Интересуюсь созднаием красивых и динамичных сайтов. 
 - 📪 Связаться со мной можно по почте andrewfateev@mail.ru

@@ -22,9 +22,9 @@
 </div>
 
 ### :fire: Статистика :
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndrewFlow&title_color=f3e600&text_color=04DAF6&icon_color=f3e600&border_color=f3e600&bg_color=000029&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndrewFlow&title_color=04DAF6&text_color=f3e600&icon_color=f3e600&border_color=04DAF6&bg_color=0d1117&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewFlow&layout=compact&title_color=f3e600&text_color=04DAF6&icon_color=f3e600&border_color=f3e600&bg_color=000029&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewFlow&layout=compact&title_color=04DAF6&text_color=f3e600&icon_color=f3e600&border_color=04DAF6&bg_color=0d1117&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)

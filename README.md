@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
 </div>
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Привет!+Меня+зовут+Андрей+и+я+front-end+разработчик!)](https://git.io/typing-svg)
 - 👋 Привет! Меня зовут Андрей и я front-end разработчик!
 - 👀 Интересуюсь созднаием красивых и динамичных сайтов. 
 - 📪 Связаться со мной можно по почте andrewfateev@mail.ru

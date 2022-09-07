@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AndrewFlow)
+
 </div>
 
 - 👋 Привет! Меня зовут Андрей и я front-end разработчик!
@@ -9,4 +9,6 @@
 - 🌱 Активно изучаю JavaScript и React.
 - 💻 В ходе создания сайтов и web-приложений активно использую Visual Studio и Github.
 - 💞️ В мои хобби можно отнести бег, волейбол и программирование.
+
+  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AndrewFlow)
 

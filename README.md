@@ -21,3 +21,8 @@
 
 ### :fire: Статистика :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AndrewFlow&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=00650B&fire=DD4D03&background=DD272700&currStreakLabel=0ADD48&sideLabels=00650B)](https://git.io/streak-stats)
+
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/AndrewFlow/github-readme-stats)

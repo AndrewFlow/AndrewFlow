@@ -10,5 +10,5 @@
 - 💻 В ходе создания сайтов и web-приложений активно использую Visual Studio и Github.
 - 💞️ В мои хобби можно отнести бег, волейбол и программирование.
 
-  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AndrewFlow)
+  !(https://github-readme-stats.vercel.app/api?username=AndrewFlow)
 

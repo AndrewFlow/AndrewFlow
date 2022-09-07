@@ -1,7 +1,3 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-
-</div>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=008319&center=true&width=435&lines=Hello!+My+name+is+Andrew" alt="Typing SVG" /></a><br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=008319&center=true&width=435&lines=I+am+a+front-end+developer" alt="Typing SVG" /></a>
 - 👋 Привет! Меня зовут Андрей и я front-end разработчик!
